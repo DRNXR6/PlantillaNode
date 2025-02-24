@@ -1,0 +1,49 @@
+{
+  "product": [
+    {
+      "id": "75ba",
+      "producto": "pepsi",
+      "precio": "1100",
+      "stock": "221"
+    },
+    {
+      "producto": "Papas",
+      "precio": "1000",
+      "stock": "19",
+      "id": "c2ff"
+    },
+    {
+      "id": "52b9",
+      "producto": "coca",
+      "precio": "222",
+      "stock": "332"
+    }
+  ],
+  "users": [
+    {
+      "id": "e873",
+      "usuario": "Darien",
+      "contraseña": "ddsdssdds"
+    },
+    {
+      "id": "c0fb",
+      "usuario": "Darien",
+      "contraseña": "123456"
+    },
+    {
+      "id": "8dcd",
+      "usuario": "Darien",
+      "contraseña": "12"
+    },
+    {
+      "id": "0dd1",
+      "usuario": "Maria",
+      "contraseña": "12"
+    },
+    {
+      "id": "1336",
+      "usuario": "Bary",
+      "contraseña": "12345"
+    }
+  ]
+}

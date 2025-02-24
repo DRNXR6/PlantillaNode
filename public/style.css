@@ -1,0 +1,99 @@
+
+#contenedorPrincipal {
+    padding: 50px;
+
+}
+
+table {
+    line-height: 40px;
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+th, td {
+
+    text-align: center;
+    border: 0.5px solid;
+}
+
+ tr:hover {
+    background-color: rgba(0, 0, 0, 0.307);
+}
+
+th {
+    background-color: lightseagreen;
+}
+
+#thHeader {
+    padding: 10px;
+}
+
+
+#contAgregar {
+    display: none;
+    padding: 5px;
+    width: 100%;
+    background-color: none;
+}
+
+#contAgregar table {
+    position: absolute;
+    top: 259px;
+    left: 400px;
+    z-index: 1;
+    width: 400px;
+    border-radius: 20px;
+    margin-top: -98px;
+    background-color: whitesmoke;
+}
+
+
+#contEditar {
+    display: none;
+    padding: 5px;
+    width: 100%;
+    background-color: none;
+}
+
+#contEditar table {
+    position: absolute;
+    top: 259px;
+    left: 400px;
+    z-index: 1;
+    margin: auto;
+    width: 400px;
+    border-radius: 20px;
+    margin-top: -98px;
+    background-color: whitesmoke;
+}
+
+button {
+    padding: 7px;
+    width: 100px;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: rgba(0, 0, 0, 0.307);
+    transform: scale(1.05);
+}
+
+#search {
+    text-align: center;
+    width: 70%;
+    background-color: transparent;
+    border: solid 0.5px;
+    border-radius: 10px;
+    border-bottom: solid;
+    margin-right: 50px;
+    font: 20px;
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#btnEditar {
+    margin-right: 20px;
+}
